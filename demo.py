@@ -14,7 +14,7 @@ def findMinOfArray(array):
             min = array[i]
             
     return min
-
+# ehatre rgrjkgbdsjgbrjgbsrk bvsw
 
 
 print(findMaxOfArray([1,2,3,4,5,6]))
